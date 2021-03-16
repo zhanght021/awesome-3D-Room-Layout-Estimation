@@ -17,4 +17,4 @@ paper list of 3D room layout estimation from panorama or perspective images
 
 * **HorizonNet(CVPR2019):** Cheng Sun, Chi-Wei Hsiao, Min Sun, Hwann-Tzong Chen. HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data Augmentation.[[paper](https://arxiv.org/abs/1901.03861)][[project](https://sunset1995.github.io/HorizonNet/)][[code](https://github.com/sunset1995/HorizonNet)]
 
-* **DuLa-Net(CVPR2019):** Shang-Ta Yang, Fu-En Wang, Chi-Han Peng, Peter Wonka, Min Sun, Hung-Kuo Chu. DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama.[[paper](https://arxiv.org/abs/1811.11977)][[project](https://github.com/SunDaDenny/DuLa-Net)]
+* **DuLa-Net(CVPR2019):** Shang-Ta Yang, Fu-En Wang, Chi-Han Peng, Peter Wonka, Min Sun, Hung-Kuo Chu. DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama.[[paper](https://arxiv.org/abs/1811.11977)][[project](https://cgv.cs.nthu.edu.tw/projects/dulanet)][[code](https://github.com/SunDaDenny/DuLa-Net)]
