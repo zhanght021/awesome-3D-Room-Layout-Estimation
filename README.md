@@ -8,5 +8,7 @@ paper list of 3D room layout estimation from panorama or perspective images
 
 
 -----------------------
+-----------------------
+-----------------------
 
 * **AtlantaNet(ECCV2020):** Giovanni Pintore, Marco Agus, and Enrico Gobbetti. AtlantaNet: Inferring the 3D Indoor Layout from a Single 360◦ Image beyond the Manhattan World Assumption.[[paper](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf)][[code](https://github.com/crs4/AtlantaNet)]
