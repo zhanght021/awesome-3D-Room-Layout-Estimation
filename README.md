@@ -13,6 +13,8 @@ paper list of 3D room layout estimation from panorama or perspective images
 
 * **HoHoNet(CVPR2021):** Cheng Sun, Min Sun, Hwann-Tzong Chen. HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features.[[paper](https://arxiv.org/abs/2011.11498)][[code](https://github.com/sunset1995/HoHoNet)]
 
+* **LayoutNetv2(CVPR2021):** Chuhang Zou, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu, Derek Hoiem. Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods.[[paper](https://arxiv.org/pdf/1910.04099.pdf)][[code](https://github.com/zouchuhang/LayoutNetv2)]
+
 * **AtlantaNet(ECCV2020):** Giovanni Pintore, Marco Agus, and Enrico Gobbetti. AtlantaNet: Inferring the 3D Indoor Layout from a Single 360◦ Image beyond the Manhattan World Assumption.[[paper](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf)][[code](https://github.com/crs4/AtlantaNet)]
 
 * **HorizonNet(CVPR2019):** Cheng Sun, Chi-Wei Hsiao, Min Sun, Hwann-Tzong Chen. HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data Augmentation.[[paper](https://arxiv.org/abs/1901.03861)][[project](https://sunset1995.github.io/HorizonNet/)][[code](https://github.com/sunset1995/HorizonNet)]
