@@ -6,6 +6,8 @@ paper list of 3D room layout estimation from panorama or perspective images
 
 * **Structured3D(ECCV2020):** Jia Zheng, Junfei Zhang, Jing Li, Rui Tang, Shenghua Gao, Zihan Zhou. Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling.[[paper](https://arxiv.org/abs/1908.00222)][[project](https://structured3d-dataset.org/)][[code](https://github.com/bertjiazheng/Structured3D)][[introduction](https://zhuanlan.zhihu.com/p/77555645)] 
 
+* **MatterportLayout dataset(IJCV2021):** Chuhang Zou, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu, Derek Hoiem. Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods.[[paper](https://arxiv.org/pdf/1910.04099.pdf)][[code](https://github.com/ericsujw/Matterport3DLayoutAnnotation)]
+
 
 -----------------------
 -----------------------
@@ -13,7 +15,7 @@ paper list of 3D room layout estimation from panorama or perspective images
 
 * **HoHoNet(CVPR2021):** Cheng Sun, Min Sun, Hwann-Tzong Chen. HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features.[[paper](https://arxiv.org/abs/2011.11498)][[code](https://github.com/sunset1995/HoHoNet)]
 
-* **LayoutNetv2(CVPR2021):** Chuhang Zou, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu, Derek Hoiem. Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods.[[paper](https://arxiv.org/pdf/1910.04099.pdf)][[code](https://github.com/zouchuhang/LayoutNetv2)]
+* **LayoutNetv2(IJCV2021):** Chuhang Zou, Jheng-Wei Su, Chi-Han Peng, Alex Colburn, Qi Shan, Peter Wonka, Hung-Kuo Chu, Derek Hoiem. Manhattan Room Layout Reconstruction from a Single 360 image: A Comparative Study of State-of-the-art Methods.[[paper](https://arxiv.org/pdf/1910.04099.pdf)][[code](https://github.com/zouchuhang/LayoutNetv2)]
 
 * **AtlantaNet(ECCV2020):** Giovanni Pintore, Marco Agus, and Enrico Gobbetti. AtlantaNet: Inferring the 3D Indoor Layout from a Single 360◦ Image beyond the Manhattan World Assumption.[[paper](http://vic.crs4.it/data/papers/eccv2020-atlantanet.pdf)][[code](https://github.com/crs4/AtlantaNet)]
 
