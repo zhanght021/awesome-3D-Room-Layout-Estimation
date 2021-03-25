@@ -24,3 +24,6 @@ paper list of 3D room layout estimation from panorama or perspective images
 * **DuLa-Net(CVPR2019):** Shang-Ta Yang, Fu-En Wang, Chi-Han Peng, Peter Wonka, Min Sun, Hung-Kuo Chu. DuLa-Net: A Dual-Projection Network for Estimating Room Layouts from a Single RGB Panorama.[[paper](https://arxiv.org/abs/1811.11977)][[project](https://cgv.cs.nthu.edu.tw/projects/dulanet)][[code](https://github.com/SunDaDenny/DuLa-Net)]
 
 * **LayoutNet(CVPR2018):** Chuhang Zou, Alex Colburn, Qi Shan, Derek Hoiem. LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image.[[paper](https://arxiv.org/abs/1803.08999)][[official implementation(Torch)](https://github.com/zouchuhang/LayoutNet)][[pytorch implemation](https://github.com/sunset1995/pytorch-layoutnet)]
+
+* **Flat2layout:** Chi-Wei Hsiao, Cheng Sun, Min Sun, Hwann-Tzong Chen. Flat2Layout: Flat Representation for Estimating Layout of General Room Types.[[paper](https://arxiv.org/abs/1905.12571)]
+
